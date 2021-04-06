@@ -1,3 +1,3 @@
 ## Delivery App
 
-Versão BETA
+BETA version.
