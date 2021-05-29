@@ -13,4 +13,5 @@ def init_app(app):
 
     @app.cli.command()
     def listar_pedidos():
+        # TODO(RichardOkubo): use the `tabulate` package
         click.echo("lista de pedidos")

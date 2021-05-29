@@ -1,8 +1,8 @@
 """add on_menu to Category
 
-Revision ID: 8430461324e0
+Revision ID: ad08cbf87327
 Revises: 
-Create Date: 2021-02-17 20:26:30.443999
+Create Date: 2021-05-29 03:07:30.588636
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '8430461324e0'
+revision = 'ad08cbf87327'
 down_revision = None
 branch_labels = None
 depends_on = None
