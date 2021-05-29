@@ -81,3 +81,7 @@ outros/bulma/css/bulma-rtl.css
 outros/bulma/CHANGELOG.md
 outros/bulma/bulma.sass
 outros/apostila.pdf
+*.pyc
+other/wsgi.py
+other/vertabelo.txt
+other/apostila.pdf
