@@ -1,1 +1,4 @@
 *.pyc
+*.pdf
+other/migrate.txt
+other/wsgi.py
