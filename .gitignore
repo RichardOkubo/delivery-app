@@ -1,3 +1,5 @@
 
 *.pyc
-other/
+other/apostila.pdf
+other/migrate.txt
+other/wsgi.py
