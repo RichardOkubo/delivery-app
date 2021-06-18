@@ -2,3 +2,4 @@
 *.pdf
 other/migrate.txt
 other/wsgi.py
+.secrets.toml

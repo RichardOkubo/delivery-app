@@ -51,4 +51,3 @@ class UserAdmin(ModelView):
         # 1) redirect para um form para escrever a mensagem do email
         # 2) enviar o email
         flash(f"{len(users)} emails enviados.", "success")
-        
