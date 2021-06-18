@@ -3,3 +3,13 @@
 other/migrate.txt
 other/wsgi.py
 .secrets.toml
+init_db.bat
+*.bat
+Makefile
+scripts/config/app.py
+scripts/config/application.cfg
+scripts/vertabelo/example.py
+scripts/vertabelo/example.xml
+scripts/vertabelo/vertabelo.txt
+scripts/vertabelo/vertabelo_flask_sqlalchemy.py
+session/app.py
