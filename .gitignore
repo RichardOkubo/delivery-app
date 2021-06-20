@@ -1,11 +1,10 @@
 *.pyc
 *.pdf
+*.bat
+.secrets.toml
+Makefile
 other/migrate.txt
 other/wsgi.py
-.secrets.toml
-init_db.bat
-*.bat
-Makefile
 scripts/config/app.py
 scripts/config/application.cfg
 scripts/vertabelo/example.py
